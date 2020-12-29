@@ -51,3 +51,7 @@ body {
 .search.active .input {
     width: 12.5rem;
 }
+
+.search.active .btn {
+    transform: translateX(12.375rem);
+}
